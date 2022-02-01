@@ -1,0 +1,30 @@
+html {
+    height: 100%;
+}
+body {
+    background-color: rgb(243 238 238);
+    margin: 0 250px;
+    width: 53%;
+}
+* {
+    box-sizing: border-box;
+  }
+h1 {
+    font-weight: bold;
+}
+dt {
+    font-family: cursive;
+
+}
+.style1 {
+    color: silver;
+    display: flex;
+}
+.style2 {
+    color: blue;
+}
+.style3 {
+    font-weight: bold;
+    color: black;
+    display: contents;
+}
